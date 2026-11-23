@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    border: black 2px solid;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.cajaColor1 {
+    background-color: #D9D9D9;
+    height: 300px;
+}
+
+.cajaColor2 {
+    background-color: #FBA1A1;
+    height: 300px;
+}
